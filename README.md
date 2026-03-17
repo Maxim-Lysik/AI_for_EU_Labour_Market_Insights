@@ -12,4 +12,4 @@ And it builds a RAG pipeline capable of retrieving information from **text + tab
   
 ---  
     
-  
+   

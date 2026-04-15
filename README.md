@@ -11,6 +11,6 @@ The project processes:
 And it builds a RAG pipeline capable of retrieving information from **text + tables** and answering analytical labour-market questions.        
   
 ---  
-     
+      
    
  
